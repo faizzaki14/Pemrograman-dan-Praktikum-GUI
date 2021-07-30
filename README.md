@@ -12,7 +12,8 @@
 ![UsecaseGUI](https://user-images.githubusercontent.com/56437913/127583862-f102a5ab-53a3-4b42-a10e-5fb568e4101b.png)
 
 ### Database Design
-![database](https://user-images.githubusercontent.com/56437913/127583847-777c8e22-2554-4064-ad1b-7efd2efc347e.png)
+![DatabaseDesign](https://user-images.githubusercontent.com/56437913/127584423-776dea70-ca4f-4f50-b13e-ec795c194592.png)
+
 
 
 ### Petunjuk Penggunaan :
